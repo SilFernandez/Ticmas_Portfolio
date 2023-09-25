@@ -14,7 +14,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 300px;
+        top: 200px;
     }
 }
 @media (max-width:575px){
@@ -24,7 +24,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 400px;
+        top: 300px;
     }
 }
 
